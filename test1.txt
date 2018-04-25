@@ -1,3 +1,6 @@
 git add 是将修改添加进缓存区
 git commit 是将缓存区内容提交
 git status 是查看工作区
+git reflog <file>  查看文件的历史记录
+git log 查看所有的修改记录
+
