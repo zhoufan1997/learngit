@@ -1,6 +1,7 @@
 git add 是将修改添加进缓存区
 git commit 是将缓存区内容提交
 git status 是查看工作区
+git diff <file> 查看区别
 git reflog <file>  查看文件的历史记录
 git log 查看所有的修改记录
 删除文件： 可以在文件管理器中删除文件，也可以使用rm删除文件
